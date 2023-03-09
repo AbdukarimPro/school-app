@@ -5,9 +5,81 @@ import "./courses.css";
 const CoursesData = [
   {
     number: "1",
-    sub: "Ona tili",
-    teach: "Kenjayeva I",
-    date: "Dushanba-Chor",
+    sub: "Ona tili va Adabiyot",
+    teach: "Norqo'chqorova Dulfuza",
+    date: "Dushanba-Chorshanba (13:15-14:00)",
+  },
+  {
+    number: "2",
+    sub: "Rus Tili",
+    teach: "Boltayeva Laylo",
+    date: "Dushanba-Payshanba (14:00-14:45)",
+  },
+  {
+    number: "3",
+    sub: "Ingliz Tili",
+    teach: "Qilicheva Nargiza",
+    date: "Seshanba-Juma (14:00-14:45)",
+  },
+  {
+    number: "4",
+    sub: "Matematika va Informatika",
+    teach: "Jo'rayeva Sapartosh",
+    date: "Seshanba-Shanba (14:00-14:45)",
+  },
+  {
+    number: "5",
+    sub: "Fizika",
+    teach: "Kabilova Feruza",
+    date: "Seshanba-Payshanba (14:00-14:45)",
+  },
+  {
+    number: "6",
+    sub: "Biologiya",
+    teach: "Noraliyeva Nargiza",
+    date: "Seshanba-Juma (14:00-14:45)",
+  },
+  {
+    number: "7",
+    sub: "Kimyo",
+    teach: "Tojiyev Husan",
+    date: "Corshanba-Juma (14:00-14:45)",
+  },
+  {
+    number: "8",
+    sub: "Geografiya",
+    teach: "Esanova Gavhar",
+    date: "Seshanba-Payshanba (14:00-14:45)",
+  },
+  {
+    number: "9",
+    sub: "IBA",
+    teach: "Mamarajabov Chori",
+    date: "Seshanba-Payshanba (14:00-14:45)",
+  },
+  {
+    number: "10",
+    sub: "Texnologiya",
+    teach: "Mirzayev Otabek",
+    date: "Dushanba-Juma (14:00-14:45)",
+  },
+  {
+    number: "11",
+    sub: "Rasm va Chizmachilik",
+    teach: "Sattarova Dilfuza",
+    date: "Dushanba-Juma (14:00-14:45)",
+  },
+  {
+    number: "12",
+    sub: "Musiqa",
+    teach: "Sariyev Abduxoliq",
+    date: "Seshanba-Payshanba (14:00-14:45)",
+  },
+  {
+    number: "13",
+    sub: "Tarix",
+    teach: "Taylakov Elmurod",
+    date: "Dushanba-Chorshanba (14:00-14:45)",
   },
 ];
 

@@ -20,45 +20,62 @@ const AboutUs = () => {
             <div className="about__content">
               <h2>Maktab Haqida</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+                Maktab 1973-yil tashkil topgan va maktab rahbari Toshboyeva
+                Nazokat bolgan.Yillar davomida maktab nomi ozgarib
+                kelgan.1983-yildan boshlab zamonaviy tepdagi 960 oringa
+                moljallangan maktab qurilib ishga topshirilgan.Zamonaviy tepdagi
+                maktabni 1983-2004 yillargacha Xudoyqulov Ravshan
+                boshqargan.204-2008-yilgacha Ibraim Qoraxonov
+                boshqargan.2008-2018-yillargacha Faxriddin Jumayev maktabga
+                rahbar bolgan.2018-yildan hozirgacha Ergashev Eshmamat maktab
+                direktori lavozimida ishlab kelmoqda.
               </p>
 
               <div className="about__counter">
                 <div className=" d-flex gap-5 align-items-center">
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={25} duration={2} suffix="K" />
+                      <CountUp start={0} end={80} duration={2} suffix="Nafar" />
                     </span>
 
-                    <p className="counter__title">Completed Projects</p>
+                    <p className="counter__title">Maktab o'qituvchi soni</p>
                   </div>
 
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={12} duration={2} suffix="M" />
+                      <CountUp
+                        start={0}
+                        end={1500}
+                        duration={2}
+                        suffix="Nafar"
+                      />
                     </span>
 
-                    <p className="counter__title">Patient Around World</p>
+                    <p className="counter__title">Maktab o'quvchilar soni</p>
                   </div>
                 </div>
 
                 <div className=" d-flex gap-5 align-items-center">
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={95} duration={2} suffix="M" />
+                      <CountUp start={0} end={84} duration={2} suffix="Nafar" />
                     </span>
 
-                    <p className="counter__title">Ideas Raised Funds</p>
+                    <p className="counter__title">
+                      2021-2022 o'quv yillida <br />
+                      bitirgan o'quvchilar soni
+                    </p>
                   </div>
 
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={5} duration={2} suffix="K" />
+                      <CountUp start={0} end={36} duration={2} suffix="Nafar" />
                     </span>
 
-                    <p className="counter__title">Categories Served</p>
+                    <p className="counter__title">
+                      2021-2022 o'quv yillida <br />
+                      oliy ta'lim muassasiga <br /> o'qishga kirgan oquvchilar soni
+                    </p>
                   </div>
                 </div>
               </div>

@@ -31,7 +31,7 @@ function Contact() {
             <div className="info">
               <div className="border border-2 border-white p-3 mb-2 shadow d-flex justify-content-start align-items-center">
                 <i class="ri-phone-fill"></i>
-                <h1>+998 (93) 578 20 21</h1>
+                <h1>+998 (76) 465 26 85</h1>
               </div>
               <div className="border border-2 border-white p-3 mb-2 shadow d-flex justify-content-start align-items-center">
                 <i class="ri-mail-fill"></i>
