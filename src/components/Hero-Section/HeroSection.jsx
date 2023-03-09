@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col } from "reactstrap";
+import { Container, Row, Col, UncontrolledAlert } from "reactstrap";
 import heroImg from "../../assests/images/33school.jpg";
 import "./hero-section.css";
 
@@ -7,6 +7,9 @@ const HeroSection = () => {
   return (
     <section>
       <Container data-aos="fade-up" data-aos-duration="3000">
+        <UncontrolledAlert color="danger">
+          Websitening ba'zi bo'limlarida ta'mirlash ishlari olib borilmoqda. Noqulayliklar uchun uzr so'raymiz
+        </UncontrolledAlert>
         <Row>
           <Col lg="6" md="6">
             <div className="hero__content">

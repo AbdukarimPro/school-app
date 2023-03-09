@@ -15,53 +15,42 @@ import "aos/dist/aos.css";
 
 const CardData = [
   {
-    title: "HEllo",
-    subt: "HEllo World",
+    title: "Title",
+    subt: "Subt",
     cardImg: "https://picsum.photos/300/200",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "desc",
   },
   {
-    title: "HEllo",
-    subt: "HEllo World",
+    title: "Title",
+    subt: "Subt",
     cardImg: "https://picsum.photos/300/200",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "desc",
   },
   {
-    title: "HEllo",
-    subt: "HEllo World",
+    title: "Title",
+    subt: "Subt",
     cardImg: "https://picsum.photos/300/200",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "desc",
   },
   {
-    title: "HEllo",
-    subt: "HEllo World",
+    title: "Title",
+    subt: "Subt",
     cardImg: "https://picsum.photos/300/200",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "desc",
   },
   {
-    title: "HEllo",
-    subt: "HEllo World",
+    title: "Title",
+    subt: "Subt",
     cardImg: "https://picsum.photos/300/200",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "desc",
   },
   {
-    title: "HEllo",
-    subt: "HEllo World",
+    title: "Title",
+    subt: "Subt",
     cardImg: "https://picsum.photos/300/200",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "desc",
   },
-  {
-    title: "HEllo",
-    subt: "HEllo World",
-    cardImg: "https://picsum.photos/300/200",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
-  },
-  {
-    title: "HEllo",
-    subt: "HEllo World",
-    cardImg: "https://picsum.photos/300/200",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
-  },
+  
 ];
 
 function gallery() {
