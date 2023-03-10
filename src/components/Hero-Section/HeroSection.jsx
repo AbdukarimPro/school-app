@@ -7,9 +7,9 @@ const HeroSection = () => {
   return (
     <section>
       <Container data-aos="fade-up" data-aos-duration="3000">
-        <UncontrolledAlert color="danger">
+        {/* <UncontrolledAlert color="danger">
           Websitening ba'zi bo'limlarida ta'mirlash ishlari olib borilmoqda. Noqulayliklar uchun uzr so'raymiz
-        </UncontrolledAlert>
+        </UncontrolledAlert> */}
         <Row>
           <Col lg="6" md="6">
             <div className="hero__content">

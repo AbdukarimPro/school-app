@@ -21,13 +21,13 @@ const AboutUs = () => {
               <h2>Maktab Haqida</h2>
               <p>
                 Maktab 1973-yil tashkil topgan va maktab rahbari Toshboyeva
-                Nazokat bolgan.Yillar davomida maktab nomi ozgarib
-                kelgan.1983-yildan boshlab zamonaviy tepdagi 960 oringa
+                Zulfiya bo'lgan.Yillar davomida maktab nomi ozgarib
+                kelgan.1983-yildan boshlab zamonaviy tepdagi 960 o'ringa
                 moljallangan maktab qurilib ishga topshirilgan.Zamonaviy tepdagi
                 maktabni 1983-2004 yillargacha Xudoyqulov Ravshan
-                boshqargan.204-2008-yilgacha Ibraim Qoraxonov
+                boshqargan.2004-2008-yilgacha Ibraim Qoraxonov
                 boshqargan.2008-2018-yillargacha Faxriddin Jumayev maktabga
-                rahbar bolgan.2018-yildan hozirgacha Ergashev Eshmamat maktab
+                rahbar bo'lgan.2018-yildan hozirgacha Ergashev Eshmamat maktab
                 direktori lavozimida ishlab kelmoqda.
               </p>
 

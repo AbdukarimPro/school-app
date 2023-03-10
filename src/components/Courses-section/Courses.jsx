@@ -6,7 +6,7 @@ const CoursesData = [
   {
     number: "1",
     sub: "Ona tili va Adabiyot",
-    teach: "Norqo'chqorova Dulfuza",
+    teach: "Norqo'chqorova DIlfuza",
     date: "Dushanba-Chorshanba (13:15-14:00)",
   },
   {
